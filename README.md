@@ -15,6 +15,14 @@
   </a>
 </p>
 
+<p align="center"><sub>tools I recommend</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/LiteLLM-191970?style=for-the-badge&logoColor=white" alt="LiteLLM" />
+  <img src="https://img.shields.io/badge/Together%20AI-2D7BE5?style=for-the-badge&logoColor=white" alt="Together AI" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/vLLM-FF6F61?style=for-the-badge&logoColor=white" alt="vLLM" />
