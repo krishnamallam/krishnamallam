@@ -39,16 +39,6 @@
   <img alt="Snake animation eating contribution graph" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## In numbers
-
-<table align="center">
-<tr>
-<td align="center" width="240"><h1>10+</h1><sub>years engineering</sub></td>
-<td align="center" width="240"><h1>15+</h1><sub>engineers led</sub></td>
-<td align="center" width="240"><h1>2</h1><sub>countries &middot; IT / IN</sub></td>
-</tr>
-</table>
-
 ## About
 
 Sovereign AI for regulated enterprises. Moving organisations from legacy RPA to autonomous agents on hybrid cloud, at 40% lower TCO than hyperscalers, without breaking GDPR.
@@ -62,8 +52,8 @@ Sovereign AI for regulated enterprises. Moving organisations from legacy RPA to 
 
 ## Products
 
-- **[askPDF.net](https://askpdf.net)** &mdash; chat with PDFs at scale
-- **[Medialogic AI](https://medialogic.ai)** &mdash; Enterprise Brain platform
+- **[askPDF.net](https://askpdf.net)** &middot; chat with PDFs at scale
+- **[Medialogic AI](https://medialogic.ai)** &middot; Enterprise Brain platform
 
 ## GitHub stats
 
