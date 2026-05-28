@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Krishna%20Mallam&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=CTO%20%40%20Medialogic%20AI%20%C2%B7%20Sovereign%20AI%20for%20Enterprise%20%C2%B7%20Rome&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="banner" />
 
 <p align="center">
-  <a href="[https://kmallam.com](https://kmallam.com)"><img src="https://img.shields.io/badge/site-saikrishnamallam.github.io-58A6FF?style=flat&logo=googlechrome&logoColor=white" alt="site" /></a>
+  <a href="https://kmallam.com"><img src="https://img.shields.io/badge/site-kmallam.com-58A6FF?style=flat&logo=googlechrome&logoColor=white" alt="site" /></a>
   <a href="https://www.linkedin.com/in/saikrihnamallam/"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:saikrishnamallam@live.com"><img src="https://img.shields.io/badge/email-write-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
   <img src="https://komarev.com/ghpvc/?username=krishnamallam&label=visitors&color=58A6FF&style=flat" alt="visitors" />
@@ -39,6 +39,13 @@
   <img alt="Snake animation eating contribution graph" src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg" />
 </picture>
 
+## Stack I bet on
+
+- LLM serving: **vLLM** + **Ollama** (no hyperscaler tax)
+- Retrieval: **RAGFlow** + **Qdrant** + **pgvector**, hybrid BM25
+- Infra: **Hetzner** / **OVH** + **Proxmox**, GDPR by design
+- Agents: **LangChain** orchestration over sovereign endpoints
+
 ## About
 
 Sovereign AI for regulated enterprises. Moving organisations from legacy RPA to autonomous agents on hybrid cloud, at 40% lower TCO than hyperscalers, without breaking GDPR.
@@ -64,7 +71,7 @@ Sovereign AI for regulated enterprises. Moving organisations from legacy RPA to 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%" alt="footer" />
 
 <p align="center">
-  <a href="https://saikrishnamallam.github.io">site</a> &nbsp;&middot;&nbsp;
+  <a href="https://kmallam.com">kmallam.com</a> &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/saikrihnamallam/">linkedin</a> &nbsp;&middot;&nbsp;
   <a href="mailto:saikrishnamallam@live.com">saikrishnamallam@live.com</a>
 </p>
