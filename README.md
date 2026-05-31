@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://kmallam.com"><img src="https://img.shields.io/badge/site-kmallam.com-58A6FF?style=flat&logo=googlechrome&logoColor=white" alt="site" /></a>
-  <a href="https://www.linkedin.com/in/saikrishnamallam/"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="[https://www.linkedin.com/in/saikrishnamallam/](https://www.linkedin.com/in/saikrihnamallam/)"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:saikrishnamallam@live.com"><img src="https://img.shields.io/badge/email-write-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
   <img src="https://komarev.com/ghpvc/?username=krishnamallam&label=visitors&color=58A6FF&style=flat" alt="visitors" />
 </p>
